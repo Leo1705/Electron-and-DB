@@ -1,0 +1,5 @@
+2022/11/13-10:59:03.893 1ebc Recovering log #256
+2022/11/13-10:59:03.894 1ebc Level-0 table #258: started
+2022/11/13-10:59:03.904 1ebc Level-0 table #258: 237 bytes OK
+2022/11/13-10:59:03.922 1ebc Delete type=0 #256
+2022/11/13-10:59:03.923 1ebc Delete type=3 #254
